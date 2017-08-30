@@ -3,7 +3,6 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
  */
-@import url("https://fonts.googleapis.com/css?family=Caveat|Sacramento");
 body,
 html {
   width: 100%;
@@ -164,8 +163,7 @@ header.masthead {
       font-size: 30px;
       font-weight: 700;
       margin-top: 0;
-      margin-bottom: 0;
-      font-family: 'Sacramento', cursive; }
+      margin-bottom: 0; }
     header.masthead .header-content .header-content-inner hr {
       margin: 30px auto; }
     header.masthead .header-content .header-content-inner p {
