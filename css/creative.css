@@ -3,6 +3,7 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
  */
+@import url("https://fonts.googleapis.com/css?family=Clicker+Script");
 body,
 html {
   width: 100%;
@@ -88,7 +89,7 @@ body {
     font-weight: 700;
     color: #F05F40;
     font-size: 30px;
-    font-family: "Sacramento", cursive !important;
+    font-family: "Clicker Script", cursive !important;
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
     #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: #f05f40; }

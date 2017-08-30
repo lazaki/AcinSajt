@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script');
 // Styling for the navbar
 #mainNav {
   border-color: fade-out($gray-darker, .95);
@@ -8,7 +9,7 @@
     font-weight: 700;
     color: $theme-primary;
     font-size: 30px;
-    font-family: 'Sacramento', cursive!important;
+    font-family: 'Clicker Script', cursive!important;
     @include sans-serif-font;
     &:focus,
     &:hover {
