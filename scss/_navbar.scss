@@ -6,8 +6,9 @@
   @include transition-all;
   .navbar-brand {
     font-weight: 700;
-    text-transform: uppercase;
     color: $theme-primary;
+    font-size: 30px;
+    font-family: 'Sacramento', cursive!important;
     @include sans-serif-font;
     &:focus,
     &:hover {
@@ -15,7 +16,7 @@
     }
   }
   .navbar-toggle {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
     color: $gray-darker;
